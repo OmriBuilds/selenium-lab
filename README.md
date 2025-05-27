@@ -16,7 +16,8 @@ Make sure you have Python 3.10+ installed. Then:
 ```bash
 pip install -r requirements.txt
 python selenium_test.py
+```
 
 ---
 
-_Repo by [OmriBuilds](https://github.com/OmriBuilds) – first steps into chaos._---
+_Repo by [OmriBuilds](https://github.com/OmriBuilds) – first steps into chaos._
